@@ -8,7 +8,8 @@ Node.js for Max8 + Electron + React + Socket.io + Signature Pad + TensorFlow.js
 
 ## How to use
 
-Open tf_mnist.maxpat
+npm run setup  
+Open tf_mnist.maxpat  
 
 ## Credit
 This project based on the following projects:  
