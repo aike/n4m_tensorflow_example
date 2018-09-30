@@ -1,4 +1,4 @@
-Node.js for Max with TensorFlow
+Node.js for Max with TensorFlow.js example
 ====
 
 ## What's This
@@ -8,8 +8,9 @@ Node.js for Max8 + Electron + React + Socket.io + Signature Pad + TensorFlow.js
 
 ## How to use
 
-npm run setup  
-Open tf_mnist.maxpat  
+ - cd n4m_tensorflow_example
+ - npm run setup
+ - Open tf_mnist.maxpat via Max8
 
 ## Credit
 This project based on the following projects:  
@@ -20,5 +21,5 @@ https://github.com/yuichkun/n4m-electron-ui
 MNIST recognition with TensorFlow.js  
 https://github.com/yukagil/tfjs-mnist-cnn  
 
-'Node.js for Max with TensorFlow' original code is licenced under ISC License.  
+'Node.js for Max with TensorFlow.js example' original code is licenced under ISC License.  
 Copyright 2018, aike (@aike1000)
