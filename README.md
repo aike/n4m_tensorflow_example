@@ -3,14 +3,14 @@ Node.js for Max with TensorFlow.js example
 
 ## What's This
 
-MNIST handwritten character recognitin demo for MAX8.  
+MNIST handwritten character recognition demo for MAX8.  
 Node.js for Max8 + Electron + React + Socket.io + Signature Pad + TensorFlow.js
 
 ## How to use
 
- 1. cd n4m_tensorflow_example
- 2. npm run setup
- 3. open tf_mnist.maxpat via Max8
+1. cd n4m_tensorflow_example
+2. npm run setup
+3. open tf_mnist.maxpat via Max8
 
 ## Credit
 This project based on the following projects:  
