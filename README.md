@@ -17,9 +17,11 @@ This project based on the following projects:
 
 Node.js for Max with Electron + UI  
 https://github.com/yuichkun/n4m-electron-ui  
+https://qiita.com/Yuichi_Yogo/items/7d34560d55f201256de1  
 
 MNIST recognition with TensorFlow.js  
 https://github.com/yukagil/tfjs-mnist-cnn  
+https://qiita.com/kaneU/items/ca84c4bfcb47ac53af99  
 
 'Node.js for Max with TensorFlow.js example' original code is licenced under ISC License.  
 Copyright 2018, aike (@aike1000)
