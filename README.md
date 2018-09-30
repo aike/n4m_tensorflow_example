@@ -8,9 +8,9 @@ Node.js for Max8 + Electron + React + Socket.io + Signature Pad + TensorFlow.js
 
 ## How to use
 
- - cd n4m_tensorflow_example
- - npm run setup
- - Open tf_mnist.maxpat via Max8
+ 1. cd n4m_tensorflow_example
+ 2. npm run setup
+ 3. open tf_mnist.maxpat via Max8
 
 ## Credit
 This project based on the following projects:  
