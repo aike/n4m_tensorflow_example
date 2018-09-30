@@ -1,5 +1,5 @@
 {
-  "name": "electron-ui",
+  "name": "electron-tensorflow",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,7 +8,7 @@
     "start": "DEBUG=1 electron .",
     "develop": "npm run build; npm start"
   },
-  "author": "Yuichi Yogo",
+  "author": "aike",
   "license": "ISC",
   "dependencies": {
     "@tensorflow/tfjs": "^0.13.1",
