@@ -6,9 +6,6 @@ export default class App extends Component {
 
 	componentDidMount() {
 	    // init SignaturePad
-	    console.log('init');
-	    console.log(document.getElementById('draw-area'));
-	    console.log(document.querySelector('#draw-area'));
 	    this.drawElement = document.getElementById('draw-area');
 	    this.signaturePad = new SignaturePad(this.drawElement, {
 	       minWidth: 6,
