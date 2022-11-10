@@ -11,7 +11,7 @@
   "author": "aike",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^3.0.1",
+    "electron": "^18.3.7",
     "socket.io": "^2.1.1"
   }
 }
